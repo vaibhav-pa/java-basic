@@ -11,7 +11,7 @@ public class prime {
                 System.out.println("prime");
             }
         }
-
     }
 }
+
 
